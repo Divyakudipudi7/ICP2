@@ -15,3 +15,8 @@ Question 4
  Question 5
  defines a function named count_upper_lower that takes one parameter input_string, which is the string for which we want to count upper-case and lower-case characters.
  Checks for upper and lower case letters and counting
+
+
+
+
+Video Link: https://drive.google.com/file/d/1VVjvcnDj8erWHY1DtjfgKCgi0CwVJkGF/view?usp=drive_link
